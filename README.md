@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Datamandalorian
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL,Python, Tableau
+- 👀 I’m interested in Business/Data Analysis
+- Proficient in SQL
+- 🌱 I’m currently learning Python, Tableau
 - 💞️ I’m looking to collaborate on anything on data analysis
 - 📫 You can reach me on Twitter and Instagram on @datamandalorian
 
